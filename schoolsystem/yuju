@@ -1,0 +1,7 @@
+CREATE DATABASE students;
+CREATE TABLE users (
+  username VARCHAR(255),
+  password VARCHAR(255),
+  phone VARCHAR(20)
+);
+
